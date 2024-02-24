@@ -18,13 +18,12 @@
 
 ### Technical Skills
 
-<img src="https://img.shields.io/badge/-React.js-161616?style=flat&logo=react&logoColor=00d9ff"> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=fff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-React.js-161616?style=flat&logo=react&logoColor=00d9ff"> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-GraphQL-4E224C?style=flat&logo=graphql&logoColor=F6009C"> <img src="https://img.shields.io/badge/-Cypress-027780?style=flat&logo=Cypress&logoColor=black"> <img src="https://img.shields.io/badge/-Redux-black?style=flat&logo=Redux&logoColor=764ABC"> <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=fff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 ### Contact me:
 
-[![Email](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=fff)](mailto:andreighiorghiu96@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ghiorghiu-andrei-2a9416135/)
-[![UpWork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01a3286a8f87f0b2b7)
+[![Email](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=fff)](mailto:andreighiorghiudev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ghiorghiu-andrei-dev/)
 
 ### My GitHub Stats
 
