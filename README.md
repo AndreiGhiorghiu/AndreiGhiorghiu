@@ -18,12 +18,7 @@
 
 ### Technical Skills
 
-<img src="https://img.shields.io/badge/-React.js-161616?style=flat&logo=react&logoColor=00d9ff"> 
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff"> 
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> 
-<img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=fff"> 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-React.js-161616?style=flat&logo=react&logoColor=00d9ff"> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=fff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 ### Contact me:
 
