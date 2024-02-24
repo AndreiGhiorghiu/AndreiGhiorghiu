@@ -6,9 +6,9 @@
 
 🚀 **My personal motto**: "Coding isn't just about lines on a screen; it's about unlocking potential."
 
-💻 **Programming Languages**: JavaScript, TypeScript
+💻 **Programming Languages**: `JavaScript`, `TypeScript`
 
-🔧 **Technologies & Tools**: React, React Native, Redux, Node.js, Express.js, GraphQL, Cypress, PostgreSQL, Jenkins, Babel, OAuth2, JWT, RESTful APIs, TDD, Webpack, Redis, MongoDB, Nginx, MySQL, SQL, DevOps, JIRA, AI Coding Tools (ChatGPT, GitHub Co-Pilot, Gemini AI)
+🔧 **Technologies & Tools**: React.js, React Native, Redux, Node.js, Express.js, GraphQL, Cypress, PostgreSQL, Jenkins, Babel, OAuth2, JWT, RESTful APIs, TDD, Webpack, Redis, MongoDB, Nginx, MySQL, SQL, DevOps, JIRA, AI Coding Tools (ChatGPT, GitHub Co-Pilot, Gemini AI)
 
 ☁️ **Cloud**: CI/CD, Git, Gitlab
 
