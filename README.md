@@ -24,6 +24,7 @@
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=fff)](mailto:andreighiorghiudev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ghiorghiu-andrei-dev/)
+[![CV](https://img.shields.io/badge/CV-454746?style=flat-square&logo=googledrive&logoColor=fff)](https://drive.google.com/file/d/1udOCXQLuWmC0gLpetcVi29Zzlt1W0L9-/view?usp=sharing)
 
 ### My GitHub Stats
 
