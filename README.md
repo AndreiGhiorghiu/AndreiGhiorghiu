@@ -24,7 +24,7 @@
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=fff)](mailto:andreighiorghiudev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ghiorghiu-andrei-dev/)
-[![CV](https://img.shields.io/badge/CV-454746?style=flat-square&logo=googledrive&logoColor=fff)]([https://drive.google.com/file/d/1udOCXQLuWmC0gLpetcVi29Zzlt1W0L9-/view?usp=sharing](https://drive.google.com/file/d/1k8dC7tCZNYwiVLYVdwDTLAJZPaeKLe0L/view?usp=sharing))
+[![CV](https://img.shields.io/badge/CV-454746?style=flat-square&logo=googledrive&logoColor=fff)](https://drive.google.com/file/d/1k8dC7tCZNYwiVLYVdwDTLAJZPaeKLe0L/view)
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat-square&logo=calendly&logoColor=fff)](https://calendly.com/andreighiorghiudev/30min)
 
 ### My GitHub Stats
